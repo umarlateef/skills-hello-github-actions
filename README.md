@@ -20,6 +20,7 @@ _Create a GitHub Action and use it in a workflow._
 
 ## Finish
 
+[cassandra_queries.d2](cassandra_queries.d2):
 _Congratulations friend, you've completed this course!_
 
 <img src=https://octodex.github.com/images/jetpacktocat.png alt=celebrate width=300 align=right>
